@@ -137,7 +137,7 @@ Each example is self-contained and can be run independently:
 
 ```bash
 # Navigate to any example folder
-cd 01-basic-agent
+cd basic-agent
 
 # Copy and configure environment file
 cp .env.example .env
@@ -151,10 +151,10 @@ python main.py
 
 ```
 The-ADK-Playbook/
-├── 01-basic-agent/
+├── greeting_agent/
 │   ├── main.py
 │   └── .env.example
-├── 02-agent-with-tools/
+├── testing_tools/
 │   ├── main.py
 │   └── .env.example
 ├── ...
