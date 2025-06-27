@@ -46,7 +46,7 @@ The output of each sub-agent is stored in the session state using the `output_ke
 ## Project Structure
 
 ```
-9-sequential-agent/
+sequential-agent/
 │
 ├── lead_qualification_agent/       # Main Sequential Agent package
 │   ├── __init__.py                 # Package initialization
@@ -93,7 +93,7 @@ GOOGLE_API_KEY=your_api_key_here
 ### Running the Example
 
 ```bash
-cd 9-sequential-agent
+cd sequential-agent
 adk web
 ```
 
