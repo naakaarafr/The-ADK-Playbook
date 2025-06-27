@@ -56,7 +56,7 @@ When using `output_schema`:
 ## Project Structure
 
 ```
-4-structured-outputs/
+structured-outputs/
 │
 ├── email_agent/                   # Email Generator Agent package
 │   └── agent.py                   # Agent definition with output schema
@@ -86,7 +86,7 @@ GOOGLE_API_KEY=your_api_key_here
 ### Running the Example
 
 ```bash
-cd 4-structured-outputs
+cd structured-outputs
 adk web
 ```
 
