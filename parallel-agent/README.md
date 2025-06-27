@@ -108,7 +108,7 @@ GOOGLE_API_KEY=your_api_key_here
 ### Running the Example
 
 ```bash
-cd 10-parallel-agent
+cd parallel-agent
 adk web
 ```
 
